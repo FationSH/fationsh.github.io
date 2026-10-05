@@ -2,7 +2,7 @@
   "name": "fation-portfolio",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://fationsh.github.io/myPort",
+  "homepage": "https://fationsh.github.io",
   "type": "module",
   "scripts": {
     "dev": "vite",
